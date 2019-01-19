@@ -1,2 +1,2 @@
 # Hello-World
-Attention! This is just a test projest.
+Attention! This is just a test project.
